@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+input, button {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+#results {
+  margin-top: 2rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.product {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: left;
+}
